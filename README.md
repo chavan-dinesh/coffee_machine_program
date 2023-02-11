@@ -20,3 +20,9 @@ Coffee : 82g
 Money : $1.5
 What would you like? (espresso/latte/cappuccino): 
 ```
+To turn OFF coffee machine, run off :
+```
+What would you like? (espresso/latte/cappuccino): off
+Turning off coffee machine!
+```
+
